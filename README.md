@@ -11,8 +11,11 @@ TODO:  Commandline version of the game.
 
 
 Game Play
-- Pick a player color to start
+- Choose a red player or blue player to start.
 - If you pick Red, you have the option of choosing 1 or 2 as your move.
-- Since the computer in this case would be Blue, after your move it would pick between A, B, or C.
-- Based on the selections you gain or lose points. ie. if Red chooses 1 and computer picks C, Red player would gain 20 point and Blue player would loose 20 points. The minimum score is 0.
-- You have 4 moves to beat the computer. Good Luck! “ψ(｀∇´)ψ	
+- If you pick Blue, you have the option of choosing A, B, or C as your move.
+- The Ai will always be your opponent, as the other color.
+- In the window, the player's options are listed in the drop down menu.
+- Based on the selection, you gain or lose points. e.g. if the Red player chooses 1 and Ai picks C, Red player would gain 20 point and Blue player would loose 20 points.
+- For visual display, refer to the Point System Graph.
+- You have 4 moves to beat the Ai. Winner takes all! Good Luck! “ψ(｀∇´)ψ	
